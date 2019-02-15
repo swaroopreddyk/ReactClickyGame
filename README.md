@@ -12,7 +12,7 @@ Feel free to use some or all of this code if you're trying to complete a similar
 
 <h3> App screenshot </h3>
 
-![alt text](https://raw.githubusercontent.com/mjbenefiel/memory-game/master/public/img/readme-frenchie.jpg "Memory Game")
+![alt text]( "Memory Game")
 
 <h2> Project overview</h2>
 This is a simple memory game created with React. Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order. Once the user's score is reset after an incorrect guess, the game should restart.
