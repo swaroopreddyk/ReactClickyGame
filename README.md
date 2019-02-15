@@ -1,6 +1,7 @@
 <h1>Memory Game</h1>
 
 Live version: https://swaroopreddyk.github.io/memory-game/
+https://shrouded-sands-36115.herokuapp.com/
 
 <hr></hr>
 
